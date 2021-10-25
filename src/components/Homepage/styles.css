@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@1,300&display=swap");
+#d1 {
+  background-image: url("https://images.unsplash.com/photo-1518998053901-5348d3961a04?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0JTIwZ2FsbGVyeXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+#artifyh1 {
+  font-size: 50px;
+  font-family: "Merriweather Sans", "sans-serif";
+  margin: 0px;
+  color: rgb(2, 2, 2);
+  text-align: center;
+}
+
+#buyh3 {
+  font-family: "Merriweather Sans", "sans-serif";
+  margin: 0px;
+  color: rgb(2, 2, 2);
+  text-align: center;
+}
+
+#ss {
+  background-color: rgb(92, 91, 91);
+  position: relative;
+  color: rgb(166, 212, 255);
+  font-style: italic;
+  font-family: "Merriweather Sans", "sans-serif";
+  font-size: 20px;
+  padding: 7px 10px;
+  border-radius: 15px;
+  border-style: outset;
+  border-color: rgb(166, 212, 255);
+  margin: 100px 680px;
+  cursor: pointer;
+}
